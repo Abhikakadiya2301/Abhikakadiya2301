@@ -10,7 +10,8 @@ I'm a **Cloud Engineer** and **DevOps enthusiast** based in Toronto, Canada. My 
 - 📧 **Contact**: [abhikakadiya2301@gmail.com](mailto:abhikakadiya2301@gmail.com)
 - 💼 **LinkedIn**: [Abhishek Kakadiya](https://www.linkedin.com/in/abhishek-kakadiya-2243971a5/)
 
-![Coding GIF](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" style="float: right;" width="300" height="300">
+
 ### 🚀 **Skills**
 - **Cloud Platforms**: AWS, GCP, Azure
 - **Containerization & Orchestration**: Kubernetes (K8s), Docker
@@ -45,5 +46,5 @@ I'm a **Cloud Engineer** and **DevOps enthusiast** based in Toronto, Canada. My 
 - **Tech Stack**: Python, Pandas, Scikit-learn, Random Forest
 
 ### 🌐 **Get in Touch**
-Feel free to reach out to discuss cloud engineering, DevOps practices, or collaborate on open-source projects!
+Let's discuss cloud engineering and DevOps practices or collaborate on open-source projects!
 
