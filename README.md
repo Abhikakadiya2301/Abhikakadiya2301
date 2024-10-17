@@ -10,6 +10,7 @@ I'm a **Cloud Engineer** and **DevOps enthusiast** based in Toronto, Canada. My 
 - 📧 **Contact**: [abhikakadiya2301@gmail.com](mailto:abhikakadiya2301@gmail.com)
 - 💼 **LinkedIn**: [Abhishek Kakadiya](https://www.linkedin.com/in/abhishek-kakadiya-2243971a5/)
 
+![Coding GIF](https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif)
 ### 🚀 **Skills**
 - **Cloud Platforms**: AWS, GCP, Azure
 - **Containerization & Orchestration**: Kubernetes (K8s), Docker
@@ -19,10 +20,11 @@ I'm a **Cloud Engineer** and **DevOps enthusiast** based in Toronto, Canada. My 
 - **Data Science**: Data Engineering, Data Visualization, Data Modelling
 - **Web Development**: Flask, Node.js, REST APIs
 - **Database**: MongoDB, Postgres, MySQL, Redis
+- **AI**: OpenAI, LangChain, Hugging Face
 - **Version Control**: Git, GitHub, GitLab
 
 ### 💼 **Work Experience**
-#### **Cloud Engineer** - BuissMaster.com (2022)
+#### **Cloud Engineer** - BuissMaster.com (Jan-Aug 2022)
 - Built secure cloud infrastructure, boosting system uptime by 25% and reducing latency by 30%.
 - Automated data extraction with **Selenium**, cutting manual work by 50%.
 - Integrated **Gmail API** for secure merchant account access and data insights.
