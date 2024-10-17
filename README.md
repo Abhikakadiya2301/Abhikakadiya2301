@@ -1,7 +1,6 @@
 # Hi, I'm Abhishek Kakadiya! 👋
 
-I'm a **Cloud Engineer** and **DevOps enthusiast** based in Toronto, Canada. My passion lies in building scalable, efficient, and secure cloud solutions that help businesses thrive. With a strong foundation in cloud computing, container orchestration, and CI/CD practices, I specialize in automating complex workflows and solving infrastructure challenges.
-
+Dedicated IT enthusiast with a strong passion for cloud computing and expertise in DevOps practices.
 ### 🌟 **About Me**
 - 📍 **Location**: Toronto, Canada
 - 🎓 **Education**: 
@@ -10,7 +9,7 @@ I'm a **Cloud Engineer** and **DevOps enthusiast** based in Toronto, Canada. My 
 - 📧 **Contact**: [abhikakadiya2301@gmail.com](mailto:abhikakadiya2301@gmail.com)
 - 💼 **LinkedIn**: [Abhishek Kakadiya](https://www.linkedin.com/in/abhishek-kakadiya-2243971a5/)
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" style="float: left;" width="500" height="400">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding GIF" style="float: left;" width="350" height="250">
 
 ### 🚀 **Skills**
 - **Cloud Platforms**: AWS, GCP, Azure
